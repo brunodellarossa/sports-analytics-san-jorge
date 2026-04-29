@@ -1,5 +1,5 @@
 # Sports Analytics: Football Performance Dashboard ⚽
-
+![Dashboard Screenshot](Sports-Analytics-PowerBI-Bruno.png)
 ### Project Overview
 This project consists of an interactive Power BI dashboard developed for **Club Atlético San Jorge**. It focuses on player effectiveness and match statistics, transforming raw data into strategic insights for the coaching staff.
 
